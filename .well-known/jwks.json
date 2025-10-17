@@ -1,0 +1,12 @@
+{
+  "keys": [
+    {
+      "kty": "RSA",
+      "n": "m0dOQLJunt_ZFAZuunOvAOcFtkCXtmZYVXe_06FBTaxQq70o0FQnrH_yoOe655xNHkaZdKlSaZ3rUKi4ROEzs3icm0tIw92syieyGvXO8nWvQPj1uC3jA8xK_iJ02ssacYsL0tVzcJjt2ANFfr8sWKa9I_ptyS__o8SBA7huN7nrmwcB_pPBLxRadilXp5ICUzcq84RnFsa9fUwMtfYpuahSv7uZTxw4TTx3QoKmygx9X2hhLu_yUEB9Wm0cUGYanfb9E_uYRsUgoTpywX4FA2RUTUUs0SVcJJ_-YGil_3kJIZHSxZQ80HJ-WbTb1r4XoSbQL6wmJFRCYrWpnVn4jw",
+      "e": "AQAB",
+      "use": "sig",
+      "kid": "fortress-key-1",
+      "alg": "RS256"
+    }
+  ]
+}
